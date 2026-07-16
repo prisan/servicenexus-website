@@ -1,0 +1,175 @@
+Create a modern, professional service marketplace website for a company called Service Nexus.
+The website should look like a premium service platform similar to companies like Uber or Airbnb but focused on home services in Johannesburg, South Africa.
+Design style should be minimalist, modern, and trustworthy.
+
+Color palette:
+Primary: #0F172A (deep navy)
+Accent: #22C55E (professional green)
+Background: #FFFFFF
+Text: #1F2937
+Font: Inter or Poppins.
+
+The website must be mobile responsive and structured with the following pages:
+
+HOME PAGE
+Hero section with headline:
+"Trusted Services in Johannesburg"
+Subtext:
+Service Nexus connects customers with vetted professionals for cleaning, plumbing, and mobile valet services.
+
+Buttons:
+Book a Service
+Get a Quote on WhatsApp
+
+SERVICES SECTION
+Display service cards for:
+Plumbing Services
+	• Leak repairs
+	• Pipe installations
+	• Drain blockages
+	• Plumbing maintenance
+Upholstery & Fabric Cleaning
+	• Couch cleaning
+	• Carpet cleaning
+	• Mattress cleaning
+	• Chair cleaning
+Car Wash & Valet
+	• Standard wash
+	• Wash and polish
+	• Full valet
+	• Premium valet
+	
+HOW IT WORKS SECTION
+Step 1: Request a service online or via WhatsApp
+Step 2: We assign a trusted professional
+Step 3: Job completed professionally
+Step 4: Receive an invoice , pay service provider
+
+PRICING PREVIEW
+Show starting prices:
+Car Wash – From R180
+Couch Cleaning – From R350
+Carpet Cleaning – From R250
+Mattress Cleaning – From R250
+Button: View full Pricing
+
+Full Pricing per services
+
+Plumbing:
+
+At Service Nexus, we provide reliable, high-quality plumbing solutions delivered by experienced professionals. From small repairs to full plumbing installations, our team ensures efficient workmanship and long-lasting results.
+
+Fixture Installation & Replacement
+	• Basin Replacement — From R850
+	• Sink Replacement — From R850
+	• Toilet Replacement — From R1,200
+	• Dishwasher / Washing Machine Connection — From R750
+Bathroom & Kitchen Plumbing
+	• Standard Shower Installation — From R1,800
+	• Walk-in Shower Installation — From R1,800
+	• Kitchen Plumbing Renovations — From R3,500
+	• Complete Bathroom Plumbing Installation — From R12,000
+Water Storage Solutions
+	• JoJo Tank Replacement — From R2,500
+	• New JoJo Tank Installation — From R5,500
+Geyser Services (Labour)
+	• 50L Geyser Replacement — From R1,500
+	• 100L Geyser Replacement — From R1,800
+	• 200L Geyser Replacement — From R2,500
+	• Solar Geyser Installation (Labour) — From R10,000
+Pipe Repairs
+	• Underground Pipe Repairs — From R1,200
+	• Pipe Repairs in Walls — From R1,200
+	• Pipe Repairs Under Concrete — From R3,500
+Drainage & Blockages
+	• Drain Excavation — R120 per meter
+	• Blocked Drain Clearing — From R850
+
+
+Need a Quote?
+For fast assistance and bookings, contact us directly on WhatsApp.
+Add auto Message when a customer clicks the button for - Need a Quote ? 
+Hello, I would like to request a plumbing service quote.
+
+✅ Note: Pricing shown is an estimate for labour and may vary depending on site conditions, materials required, and job complexity.
+
+
+
+Upholstery & Carpet Cleaning:
+We provide professional spray extraction cleaning for couches, carpets, and mattresses.
+
+Carpet & Rug Cleaning
+From R250
+Couch Cleaning
+From R350
+Mattress Cleaning
+From R250
+Chair Cleaning
+From R60 per chair
+
+Need a Quote?
+For fast assistance and bookings, contact us directly on WhatsApp.
+Add auto Message when a customer clicks the button for - Need a Quote ? 
+Hello, I would like to request a Upholstery service quote.
+
+✅ Note: Final price depends on size, condition, and service location.
+
+
+
+Mobile Car Wash and Valet Service:
+
+We provide professional mobile cleaning and valet services using high-quality equipment and trusted service providers.
+
+Standard Wash
+From R180
+Wash & Polish
+From R300
+Full Valet
+From R900
+Premium Valet
+From R1800
+
+Need a Quote?
+For fast assistance and bookings, contact us directly on WhatsApp.
+Add auto Message when a customer clicks the button for - Need a Quote ? 
+Hello, I would like to request a Car wash service quote.
+
+✅ Note: Final price depends on size, condition, and service location.
+
+
+
+WHY CHOOSE SERVICE NEXUS
+Trusted service providers
+Transparent pricing
+Convenient mobile service
+Fast response times
+Professional equipment
+
+SERVICE AREAS
+Johannesburg including:
+Sandton
+Fourways
+Randburg
+Midrand
+
+TESTIMONIAL SECTION
+Add placeholder customer reviews.
+
+FINAL CALL TO ACTION
+Headline:
+Need a Professional Service Today?
+Buttons:
+Book Now
+WhatsApp Us
+
+FEATURES
+Sticky WhatsApp button on bottom right
+Clean service cards with icons
+Large spacing for premium design
+Simple navigation menu with pages:
+Home
+Services
+Pricing
+About
+Book Now
+Footer with contact details and service areas, and partner logos , see attached 
